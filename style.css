@@ -1,0 +1,19 @@
+.heading1
+{
+  background-color: aliceblue;
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
+
+.note
+{
+    font-size: 15;
+    color: black;
+}
+
+.song_name
+{
+    margin: 15px;
+    font-size: 23px;
+}
